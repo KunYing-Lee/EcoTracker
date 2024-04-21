@@ -6,7 +6,6 @@ EcoTracker is a comprehensive mobile application that helps users track and anal
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
