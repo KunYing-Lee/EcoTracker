@@ -23,7 +23,7 @@ This repository contains the source code for EcoTracker, developed using the MIT
 - **History**: EcoTracker will record your carbon footprint history and present to you in a line chart.
 
 ## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/EcoTracker.git`
+1. Clone this repository to your local machine using `git clone https://github.com/KunYing-Lee/EcoTracker.git`
 2. Open the project in MIT App Inventor.
 3. Customize the app according to your preferences.
 4. Build the APK file and install it on your Android device.
